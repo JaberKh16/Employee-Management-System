@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About employeemanagement
+## About Employee Management System
 It is a Laravel 8 & Vue 3 based SPA demo project (Continue Development). Build with love and open source for developers. 
 
 1. Laravel 8 

@@ -20,7 +20,8 @@ It is a Laravel 8 & Vue 3 based SPA demo project (Continue Development). Build w
 
 
 ## Getting Started Step by Step
-1. In your root folder, clone the project file using git clone https://github.com/rafi021/employeemanagement.git
+1. In your root folder, clone the project file using git clone https://github.com/JaberKh16/Employee-Management-System.git
+
 2. Open terminal (bash/cmd). Then go to project folder using command
 
 ```sh
